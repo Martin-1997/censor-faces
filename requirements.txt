@@ -1,0 +1,5 @@
+opencv-python
+mediapipe #0.9.0 -> only available for amd64
+click
+numpy
+retina-face
